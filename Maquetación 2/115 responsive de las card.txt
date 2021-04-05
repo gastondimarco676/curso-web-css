@@ -4,11 +4,11 @@ SOLUCION #cards{
     width: 86%;
     margin:25px auto;
 }
-copiado del banner
+copiado del banner que si esta responsivo
 
-funciono un rato, despues
+funciono un rato, despues ya no
 
-segun eso, despues revisar  116 y 117. pero es lo de las cards
+revisar  ejercicio 116 y 117. pero es lo de las cards
 
 no le encuentro la vuelta al responsive. tendria que seguir el curso, total despues cambia de ejercicio.
 O buscar otros youtuers que lo expliquen
