@@ -1,0 +1,10 @@
+100-
+los articulos quedaban al costado del div de iconos grandes de arriba
+puse:
+.data{
+marginright 500px 
+solucion: 
+articles{float:left
+
+y muchos br para el "ultimos articulos"
+solucion:sacar los br (era algo de article--margin top

@@ -1,0 +1,14 @@
+115. responsive de las cards no quedo bien, revisare
+
+SOLUCION #cards{
+    width: 86%;
+    margin:25px auto;
+}
+copiado del banner
+
+funciono un rato, despues
+
+segun eso, despues revisar  116 y 117. pero es lo de las cards
+
+no le encuentro la vuelta al responsive. tendria que seguir el curso, total despues cambia de ejercicio.
+O buscar otros youtuers que lo expliquen

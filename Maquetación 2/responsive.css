@@ -1,0 +1,65 @@
+
+
+@media (max-width: 1870px){
+    .wrap{
+        width: 90%;
+        margin: 0px auto;
+    }
+
+    .card{
+        width: 18%;
+        margin: 1,4%;
+    }
+}
+
+   
+ /* 
+ 
+@media (max-width: 1760px){
+    #lateral{
+        margin-right: 0px;
+    }
+}
+
+ 
+ 
+ @media (max-width: 1270px){
+        .card{
+            width: 17%;
+            margin: 1,5%;
+        }
+    }
+    
+    .card p{
+        display: block;
+        width: 90%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    #articles{
+        width: 65%;
+        margin-left: 0px;
+    }
+    #articles article{
+        width: 97%;
+    }
+    #footer .wrap > div{
+        width: 25%;
+        margin: 4%;
+    }
+    #footer #browsers img{
+        width: 15%;
+    }
+
+    #footer h5{
+        font-size: 35px;
+    }
+    #banner h1{
+        font-size: 40px;
+        text-align: center;
+        margin: 33px;
+    }
+
+}
+*/
